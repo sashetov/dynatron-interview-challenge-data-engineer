@@ -37,7 +37,7 @@ Below are some guidelines that can serve as hints but feel free to diverge from 
 
 ## Sample Files
 
-Sample files have been included in the [`data-engineer/data`](/data-engineer/data) directory for this challenge.
+Sample files have been included in the [`data`](/data) directory for this challenge.
 
 #### Evaluation Criteria
 
