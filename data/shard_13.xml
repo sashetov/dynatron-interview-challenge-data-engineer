@@ -7,6 +7,6 @@
         <technician>Robert White</technician>
         <repair_parts>
             <part name="Tire" quantity="2"/>
-        </repair_parts>
+        </pair_parts>
     </repair_details>
 </event>
